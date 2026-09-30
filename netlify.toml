@@ -1,0 +1,3 @@
+# Netlify reads this if the repo is connected. For drag-and-drop deploys it is not needed.
+[build]
+  publish = "site"
